@@ -1,0 +1,18 @@
+.imagContainer {
+  height: 200px;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  text-align: start;
+  margin: 10px;
+}
+.imageDimension {
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  border-radius: 10px;
+}
+.title_of_image {
+  font-family: 'roboto';
+  font-weight: normal;
+}
